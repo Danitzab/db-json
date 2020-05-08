@@ -42,5 +42,9 @@
             "price": 120,
             "profesor": "Ada Boni"
         }
-    ]
+    ],
+    "dueño": {
+        "name": "Danitza B",
+        "address": "calle 84 # 58-50"
+    }
 }
